@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="c1">Severely Under weight less than 16</string>
+    <string name="c2">Under Weight 16 to 17.9</string>
+    <string name="c3">Normal Weight 18 to 24.9</string>
+    <string name="c4">Over Weight 25 to 29.9</string>
+    <string name="c5">Obese greater than 29.9</string>
+</resources>
